@@ -19,7 +19,7 @@ I designed the concept, workflow logic, and interface structure of the tool.
 Open the project files and run:
 
 ## Screenshots
-![Interface](lexis-ledger/Screenshots/ProjectView.jpg)
+![Interface](Screenshots/ProjectView.jpg)
 
 
 ```python
