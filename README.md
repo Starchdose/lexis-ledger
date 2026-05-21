@@ -22,7 +22,7 @@ Open the project files and run:
 ![Project View](Screenshots/ProjectView.jpg)
 ![Calender_View](Screenshots/CalenderView.jpg)
 ![Create New Projects](Screenshots/CreateNewProject.jpg)
-![Settings](Screenshots/Setting.jpg)
+![Settings](Screenshots/Settings.jpg)
 
 
 ```python
