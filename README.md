@@ -18,10 +18,12 @@ I designed the concept, workflow logic, and interface structure of the tool.
 ## Run locally
 Open the project files and run:
 
+## Screenshots
+![lexis-ledger](Screenshot 2026-05-21 171458.jpg)
+
 ```python
 python main.py
 
-## ScreenShots
 
 
 
