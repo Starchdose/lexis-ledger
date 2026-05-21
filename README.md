@@ -20,3 +20,14 @@ Open the project files and run:
 
 ```python
 python main.py
+
+## ScreenShots
+<img width="2745" height="1752" alt="image" src="https://github.com/user-attachments/assets/641a8b34-06ca-4a68-88c5-57af640fe369" />
+
+<img width="2747" height="1680" alt="image" src="https://github.com/user-attachments/assets/36365c07-17fa-4d1d-b26d-af85763646f6" />
+
+<img width="2732" height="1680" alt="image" src="https://github.com/user-attachments/assets/acdad8f7-2385-4487-8265-f8ec3f0a9bd4" />
+
+<img width="2737" height="1677" alt="image" src="https://github.com/user-attachments/assets/e27f9670-438e-42bd-a424-3a2029f2fd65" />
+
+
