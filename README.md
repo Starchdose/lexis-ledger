@@ -21,6 +21,7 @@ Open the project files and run:
 ## Screenshots
 ![Interface](Screenshots/Screenshot 2026-05-21 171458.jpg)
 
+
 ```python
 python main.py
 
