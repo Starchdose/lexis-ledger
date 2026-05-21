@@ -19,7 +19,10 @@ I designed the concept, workflow logic, and interface structure of the tool.
 Open the project files and run:
 
 ## Screenshots
-![Interface](Screenshots/ProjectView.jpg)
+![Project View](Screenshots/ProjectView.jpg)
+![Calender_View](Screenshots/CalenderView.jpg)
+![Create New Projects](Screenshots/CreateNewProject.jpg)
+![Settings](Screenshots/Setting.jpg)
 
 
 ```python
