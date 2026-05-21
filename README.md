@@ -15,8 +15,6 @@ I wanted a tool that sits somewhere between a daily planner and a lightweight pr
 ## My role
 I designed the concept, workflow logic, and interface structure of the tool.
 
-## Run locally
-Open the project files and run:
 
 ## Screenshots
 ![Project View](Screenshots/ProjectView.jpg)
@@ -25,6 +23,8 @@ Open the project files and run:
 ![Settings](Screenshots/Settings.jpg)
 
 
+## Run locally
+Open the project files and run:
 ```python
 python main.py
 
